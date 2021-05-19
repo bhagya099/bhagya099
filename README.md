@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bhagya099
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bhagyashree
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Front-end-devloper
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me - https://www.linkedin.com/in/bhagyashree-shakrawar/
 
 <!---
 bhagya099/bhagya099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
