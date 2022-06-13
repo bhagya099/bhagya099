@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhagyashree
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning Salesforce Development
+- 💞️ I’m looking to collaborate on development
 - 📫 How to reach me - https://www.linkedin.com/in/bhagyashree-shakrawar/
 
 <!---
