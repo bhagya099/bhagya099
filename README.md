@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Bhagyashree
-- 👀 I’m interested in Coding.
-- 🌱 I’m working as a Front end devloper.
-- 💞️ I’m looking to improve my skills in Web development. 
-- 📫 How to reach me - https://www.linkedin.com/in/bhagyashree-shakrawar/
+I'm Bhagyashree, a passionate front-end developer with a keen interest in coding. Currently navigating the dynamic world of web development, I am dedicated to refining my skills and staying on the cutting edge of technology. If you'd like to connect or have a chat about coding and web development, feel free to reach out to me on LinkedIn (https://www.linkedin.com/in/bhagyashree-shakrawar/). 
+
+Let's collaborate and create something amazing!
 
 <!---
 bhagya099/bhagya099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
